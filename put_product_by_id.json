@@ -1,0 +1,476 @@
+{
+  "product": {
+    "id": 1352,
+    "sku": "38912-SKU",
+    "name": "Tender Color",
+    "attribute_set_id": 15,
+    "price": 257.5,
+    "status": 1,
+    "visibility": 4,
+    "type_id": "grouped",
+    "created_at": "2014-10-30 19:15:07",
+    "extension_attributes": {
+        "website_ids": [
+            1
+        ],
+        "category_links": [
+            {
+                "position": 1,
+                "category_id": "15"
+            }
+        ],
+        "stock_item": {
+            "item_id": 1352,
+            "product_id": 1352,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": true,
+            "is_qty_decimal": false,
+            "show_default_notification_message": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": 1,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 10000,
+            "use_config_backorders": true,
+            "backorders": 0,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 1,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": true,
+            "manage_stock": true,
+            "low_stock_date": null,
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": 0
+        }
+    },
+   "product_links": [
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38912",
+            "linked_product_type": "simple",
+            "position": 0,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38913",
+            "linked_product_type": "simple",
+            "position": 1,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38915",
+            "linked_product_type": "simple",
+            "position": 2,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38922",
+            "linked_product_type": "simple",
+            "position": 3,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38923",
+            "linked_product_type": "simple",
+            "position": 4,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38925",
+            "linked_product_type": "simple",
+            "position": 5,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38932",
+            "linked_product_type": "simple",
+            "position": 6,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38933",
+            "linked_product_type": "simple",
+            "position": 7,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38935",
+            "linked_product_type": "simple",
+            "position": 8,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38892",
+            "linked_product_type": "simple",
+            "position": 9,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38893",
+            "linked_product_type": "simple",
+            "position": 10,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "38895",
+            "linked_product_type": "simple",
+            "position": 11,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08912",
+            "linked_product_type": "simple",
+            "position": 12,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08913",
+            "linked_product_type": "simple",
+            "position": 13,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08915",
+            "linked_product_type": "simple",
+            "position": 14,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08922",
+            "linked_product_type": "simple",
+            "position": 15,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08923",
+            "linked_product_type": "simple",
+            "position": 16,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08925",
+            "linked_product_type": "simple",
+            "position": 17,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08932",
+            "linked_product_type": "simple",
+            "position": 18,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08933",
+            "linked_product_type": "simple",
+            "position": 19,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08935",
+            "linked_product_type": "simple",
+            "position": 20,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08892",
+            "linked_product_type": "simple",
+            "position": 21,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08893",
+            "linked_product_type": "simple",
+            "position": 22,
+            "extension_attributes": {
+                "qty": 0
+            }
+        },
+        {
+            "sku": "38912-SKU",
+            "link_type": "associated",
+            "linked_product_sku": "08895",
+            "linked_product_type": "simple",
+            "position": 23,
+            "extension_attributes": {
+                "qty": 0
+            }
+        }
+    ],
+    "options": [],
+     "media_gallery_entries": [
+        {
+            "id": 11590,
+            "media_type": "image",
+            "label": "Tender Color - Metrica",
+            "position": 0,
+            "disabled": true,
+            "types": [],
+            "file": "/3/8/38912_eng_1.jpg"
+        },
+        {
+            "id": 11591,
+            "media_type": "image",
+            "label": "Tender Color - Metrica",
+            "position": 0,
+            "disabled": true,
+            "types": [],
+            "file": "/3/8/38912_fra_1.jpg"
+        },
+        {
+            "id": 11593,
+            "media_type": "image",
+            "label": "Tender Color - Metrica",
+            "position": 0,
+            "disabled": true,
+            "types": [],
+            "file": "/3/8/38912_deu_2.jpg"
+        },
+        {
+            "id": 11595,
+            "media_type": "image",
+            "label": "Tender Color - Metrica",
+            "position": 0,
+            "disabled": true,
+            "types": [],
+            "file": "/3/8/38912_deu_4.jpg"
+        },
+        {
+            "id": 11596,
+            "media_type": "image",
+            "label": "Tender Color - Metrica",
+            "position": 0,
+            "disabled": true,
+            "types": [],
+            "file": "/3/8/38912_spa_1.jpg"
+        },
+        {
+            "id": 11589,
+            "media_type": "image",
+            "label": "Tender Color - Metrica",
+            "position": 1,
+            "disabled": false,
+            "types": [
+                "image",
+                "small_image",
+                "thumbnail"
+            ],
+            "file": "/3/8/38912_ita_1.jpg"
+        },
+        {
+            "id": 17300,
+            "media_type": "image",
+            "label": "Tender Color - Metrica",
+            "position": 7,
+            "disabled": true,
+            "types": [
+                "customized_image"
+            ],
+            "file": "/9/8/98934.jpg"
+        }
+    ],
+    "tier_prices": [],
+    "custom_attributes": [
+        {
+            "attribute_code": "meta_title",
+            "value": "Tender Color | Flessometri Professionali | Misura di Lunghezze - Metrica X"
+        },
+        {
+            "attribute_code": "image",
+            "value": "/3/8/38912_ita_1.jpg"
+        },
+        {
+            "attribute_code": "gift_message_available",
+            "value": "0"
+        },
+        {
+            "attribute_code": "small_image",
+            "value": "/3/8/38912_ita_1.jpg"
+        },
+        {
+            "attribute_code": "description",
+            "value": "<ul><li>Cassa ABS resistente agli urti</li><li>Disponibile in tre colori luminosi oppure in nero</li><li>Con clip</li><li><img src=\"{{media url=\"metrica/CE_2.png\"}}\"></li></ul>"
+        },
+        {
+            "attribute_code": "meta_description",
+            "value": "Scopri la collezione di prodotti., Tender Color - Flessometri Professionali.Cassa ABS resistente agli urti,Disponibile in tre colori luminosi oppure in nero,Con clip . Scopri il catalogo nel sito ufficiale di Metrica"
+        },
+        {
+            "attribute_code": "thumbnail",
+            "value": "/3/8/38912_ita_1.jpg"
+        },
+        {
+            "attribute_code": "short_description",
+            "value": "Cassa ABS resistente agli urti<br/>Disponibile in tre colori luminosi oppure in nero<br/>Con clip<br/><br/>"
+        },
+        {
+            "attribute_code": "options_container",
+            "value": "container2"
+        },
+        {
+            "attribute_code": "msrp_display_actual_price_type",
+            "value": "0"
+        },
+        {
+            "attribute_code": "amt_classece",
+            "value": "18"
+        },
+        {
+            "attribute_code": "amt_cassa_dup",
+            "value": "39"
+        },
+        {
+            "attribute_code": "tax_class_id",
+            "value": "0"
+        },
+        {
+            "attribute_code": "amt_dimensioni_dup",
+            "value": "42,44,48"
+        },
+        {
+            "attribute_code": "url_path",
+            "value": "tender-color-3448"
+        },
+        {
+            "attribute_code": "required_options",
+            "value": "0"
+        },
+        {
+            "attribute_code": "has_options",
+            "value": "0"
+        },
+        {
+            "attribute_code": "category_ids",
+            "value": [
+                "15"
+            ]
+        },
+        {
+            "attribute_code": "image_label",
+            "value": "Tender Color - Metrica"
+        },
+        {
+            "attribute_code": "url_key",
+            "value": "tender-color"
+        },
+        {
+            "attribute_code": "small_image_label",
+            "value": "Tender Color - Metrica"
+        },
+        {
+            "attribute_code": "thumbnail_label",
+            "value": "Tender Color - Metrica"
+        },
+        {
+            "attribute_code": "cart2quote_quotable",
+            "value": "2"
+        },
+        {
+            "attribute_code": "featured",
+            "value": "0"
+        },
+        {
+            "attribute_code": "customized",
+            "value": "1"
+        },
+        {
+            "attribute_code": "customized_image",
+            "value": "/9/8/98934.jpg"
+        }
+    ]
+  },
+  "saveOptions": true
+}
