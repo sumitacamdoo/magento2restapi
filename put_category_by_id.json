@@ -1,0 +1,101 @@
+{
+  "category": {
+    "id": 164,
+    "parent_id": 2,
+    "name": "Laser e Termocamere",
+    "is_active": true,
+    "position": 11,
+    "level": 2,
+    "created_at": "2018-10-26 13:20:33",
+    "path": "1/2/164",
+    "available_sort_by": [
+       "position",
+        "name",
+        "price",
+        "amt_dimensioni"
+    ],
+    "include_in_menu": true,
+    "extension_attributes": {},
+    "custom_attributes": [
+      {
+            "attribute_code": "url_key",
+            "value": "laser-e-termocamere"
+        },
+        {
+            "attribute_code": "image",
+            "value": "Laser_Termocamere.jpg"
+        },
+        {
+            "attribute_code": "meta_title",
+            "value": "Laser e Termocamere |Metrica sito ufficiale X"
+        },
+        {
+            "attribute_code": "meta_description",
+            "value": "Scopri la gamma di Laser e Termocamere made in Italy di Metrica. Accessori laser, Treppiedi ed altri strumenti professionali per la misurazione industriale."
+        },
+        {
+            "attribute_code": "display_mode",
+            "value": "PRODUCTS"
+        },
+        {
+            "attribute_code": "is_anchor",
+            "value": "1"
+        },
+        {
+            "attribute_code": "path",
+            "value": "1/2/164"
+        },
+        {
+            "attribute_code": "children",
+            "value": "130,131,166,167,181,40,44,60"
+        },
+        {
+            "attribute_code": "url_path",
+            "value": "laser-e-termocamere"
+        },
+        {
+            "attribute_code": "children_count",
+            "value": "8"
+        },
+        {
+            "attribute_code": "custom_use_parent_settings",
+            "value": "0"
+        },
+        {
+            "attribute_code": "custom_apply_to_products",
+            "value": "0"
+        },
+        {
+            "attribute_code": "use_name_in_product_search",
+            "value": "1"
+        },
+        {
+            "attribute_code": "is_virtual_category",
+            "value": "0"
+        },
+        {
+            "attribute_code": "virtual_category_root",
+            "value": "2"
+        },
+        {
+            "attribute_code": "virtual_rule",
+            "value": {
+                "condition": {
+                    "condition_type": "Smile\\ElasticsuiteVirtualCategory\\Model\\Rule\\Condition\\Combine",
+                    "aggregator_type": "all",
+                    "operator": null,
+                    "value": "1"
+                }
+            }
+        },
+        {
+            "attribute_code": "pim_code",
+            "value": "laser-e-termocamere"
+        },
+        {
+            "attribute_code": "use_store_positions",
+            "value": "0"
+        }
+    ]
+  }
+}

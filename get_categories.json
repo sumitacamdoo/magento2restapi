@@ -1,0 +1,598 @@
+{
+    "id": 2,
+    "parent_id": 1,
+    "name": "Categorie",
+    "is_active": true,
+    "position": 1,
+    "level": 1,
+    "product_count": 2001,
+    "children_data": [
+        {
+            "id": 164,
+            "parent_id": 2,
+            "name": "Laser e Termocamere",
+            "is_active": true,
+            "position": 11,
+            "level": 2,
+            "product_count": 226,
+            "children_data": [
+                {
+                    "id": 130,
+                    "parent_id": 164,
+                    "name": "Autolivelli laser",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 43,
+                    "children_data": []
+                },
+                {
+                    "id": 40,
+                    "parent_id": 164,
+                    "name": "Accessori laser",
+                    "is_active": true,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 59,
+                    "children_data": []
+                },
+                {
+                    "id": 44,
+                    "parent_id": 164,
+                    "name": "Distanziometri laser",
+                    "is_active": true,
+                    "position": 3,
+                    "level": 3,
+                    "product_count": 38,
+                    "children_data": []
+                },
+                {
+                    "id": 131,
+                    "parent_id": 164,
+                    "name": "Geodesia",
+                    "is_active": true,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 11,
+                    "children_data": []
+                },
+                {
+                    "id": 60,
+                    "parent_id": 164,
+                    "name": "Treppiedi",
+                    "is_active": true,
+                    "position": 5,
+                    "level": 3,
+                    "product_count": 25,
+                    "children_data": []
+                },
+                {
+                    "id": 166,
+                    "parent_id": 164,
+                    "name": "Termocamere",
+                    "is_active": true,
+                    "position": 6,
+                    "level": 3,
+                    "product_count": 20,
+                    "children_data": []
+                },
+                {
+                    "id": 167,
+                    "parent_id": 164,
+                    "name": "Misuratori elett.",
+                    "is_active": true,
+                    "position": 7,
+                    "level": 3,
+                    "product_count": 23,
+                    "children_data": []
+                },
+                {
+                    "id": 181,
+                    "parent_id": 164,
+                    "name": "Rilevatori",
+                    "is_active": true,
+                    "position": 8,
+                    "level": 3,
+                    "product_count": 7,
+                    "children_data": []
+                }
+            ]
+        },
+        {
+            "id": 165,
+            "parent_id": 2,
+            "name": "Misura di Lunghezze",
+            "is_active": true,
+            "position": 12,
+            "level": 2,
+            "product_count": 475,
+            "children_data": [
+                {
+                    "id": 15,
+                    "parent_id": 165,
+                    "name": "Flessometri Professionali",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 183,
+                    "children_data": []
+                },
+                {
+                    "id": 136,
+                    "parent_id": 165,
+                    "name": "Rotelle",
+                    "is_active": true,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 32,
+                    "children_data": []
+                },
+                {
+                    "id": 67,
+                    "parent_id": 165,
+                    "name": "Metri a Stecca e per Sarti",
+                    "is_active": true,
+                    "position": 3,
+                    "level": 3,
+                    "product_count": 72,
+                    "children_data": []
+                },
+                {
+                    "id": 168,
+                    "parent_id": 165,
+                    "name": "Righe - Nastri - Diametrom.",
+                    "is_active": true,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 141,
+                    "children_data": []
+                },
+                {
+                    "id": 63,
+                    "parent_id": 165,
+                    "name": "Fessurimetri",
+                    "is_active": true,
+                    "position": 5,
+                    "level": 3,
+                    "product_count": 5,
+                    "children_data": []
+                },
+                {
+                    "id": 132,
+                    "parent_id": 165,
+                    "name": "Telefix",
+                    "is_active": true,
+                    "position": 6,
+                    "level": 3,
+                    "product_count": 16,
+                    "children_data": []
+                },
+                {
+                    "id": 52,
+                    "parent_id": 165,
+                    "name": "Misuratori Stradali",
+                    "is_active": true,
+                    "position": 7,
+                    "level": 3,
+                    "product_count": 11,
+                    "children_data": []
+                },
+                {
+                    "id": 90,
+                    "parent_id": 165,
+                    "name": "Nastri Stradali",
+                    "is_active": true,
+                    "position": 8,
+                    "level": 3,
+                    "product_count": 6,
+                    "children_data": []
+                },
+                {
+                    "id": 61,
+                    "parent_id": 165,
+                    "name": "Paline",
+                    "is_active": true,
+                    "position": 9,
+                    "level": 3,
+                    "product_count": 8,
+                    "children_data": []
+                }
+            ]
+        },
+        {
+            "id": 169,
+            "parent_id": 2,
+            "name": "Misure di Angoli",
+            "is_active": true,
+            "position": 13,
+            "level": 2,
+            "product_count": 92,
+            "children_data": [
+                {
+                    "id": 50,
+                    "parent_id": 169,
+                    "name": "Misuratori d'angolo",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 18,
+                    "children_data": []
+                },
+                {
+                    "id": 98,
+                    "parent_id": 169,
+                    "name": "Goniometri",
+                    "is_active": true,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 14,
+                    "children_data": []
+                },
+                {
+                    "id": 170,
+                    "parent_id": 169,
+                    "name": "Squadre",
+                    "is_active": true,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 27,
+                    "children_data": []
+                },
+                {
+                    "id": 111,
+                    "parent_id": 169,
+                    "name": "Squadre Precisione",
+                    "is_active": true,
+                    "position": 5,
+                    "level": 3,
+                    "product_count": 33,
+                    "children_data": []
+                }
+            ]
+        },
+        {
+            "id": 171,
+            "parent_id": 2,
+            "name": "Taglio",
+            "is_active": true,
+            "position": 14,
+            "level": 2,
+            "product_count": 150,
+            "children_data": [
+                {
+                    "id": 17,
+                    "parent_id": 171,
+                    "name": "Cutter",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 78,
+                    "children_data": []
+                },
+                {
+                    "id": 91,
+                    "parent_id": 171,
+                    "name": "Forbici e Cesoie",
+                    "is_active": true,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 25,
+                    "children_data": []
+                },
+                {
+                    "id": 93,
+                    "parent_id": 171,
+                    "name": "Lenti",
+                    "is_active": true,
+                    "position": 3,
+                    "level": 3,
+                    "product_count": 11,
+                    "children_data": []
+                },
+                {
+                    "id": 92,
+                    "parent_id": 171,
+                    "name": "Contafili",
+                    "is_active": true,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 10,
+                    "children_data": []
+                },
+                {
+                    "id": 68,
+                    "parent_id": 171,
+                    "name": "Fingersafe",
+                    "is_active": true,
+                    "position": 5,
+                    "level": 3,
+                    "product_count": 2,
+                    "children_data": []
+                },
+                {
+                    "id": 156,
+                    "parent_id": 171,
+                    "name": "Righe e Squadre per Vetrai",
+                    "is_active": true,
+                    "position": 6,
+                    "level": 3,
+                    "product_count": 24,
+                    "children_data": []
+                }
+            ]
+        },
+        {
+            "id": 172,
+            "parent_id": 2,
+            "name": "Tracciatura e Marcatura",
+            "is_active": true,
+            "position": 15,
+            "level": 2,
+            "product_count": 239,
+            "children_data": [
+                {
+                    "id": 75,
+                    "parent_id": 172,
+                    "name": "Piombi",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 13,
+                    "children_data": []
+                },
+                {
+                    "id": 83,
+                    "parent_id": 172,
+                    "name": "Corde e Coloranti",
+                    "is_active": true,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 19,
+                    "children_data": []
+                },
+                {
+                    "id": 173,
+                    "parent_id": 172,
+                    "name": "Gessi, Pastelli e Matite",
+                    "is_active": true,
+                    "position": 3,
+                    "level": 3,
+                    "product_count": 46,
+                    "children_data": []
+                },
+                {
+                    "id": 84,
+                    "parent_id": 172,
+                    "name": "Tracciatori",
+                    "is_active": true,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 22,
+                    "children_data": []
+                },
+                {
+                    "id": 174,
+                    "parent_id": 172,
+                    "name": "Marcatori e Marcatori Spray",
+                    "is_active": true,
+                    "position": 5,
+                    "level": 3,
+                    "product_count": 32,
+                    "children_data": []
+                },
+                {
+                    "id": 175,
+                    "parent_id": 172,
+                    "name": "Punte a tracciare e Punzoni",
+                    "is_active": true,
+                    "position": 6,
+                    "level": 3,
+                    "product_count": 31,
+                    "children_data": []
+                },
+                {
+                    "id": 116,
+                    "parent_id": 172,
+                    "name": "Compassi",
+                    "is_active": true,
+                    "position": 7,
+                    "level": 3,
+                    "product_count": 58,
+                    "children_data": []
+                },
+                {
+                    "id": 118,
+                    "parent_id": 172,
+                    "name": "Truschini",
+                    "is_active": true,
+                    "position": 8,
+                    "level": 3,
+                    "product_count": 12,
+                    "children_data": []
+                },
+                {
+                    "id": 114,
+                    "parent_id": 172,
+                    "name": "Profilometri",
+                    "is_active": true,
+                    "position": 9,
+                    "level": 3,
+                    "product_count": 7,
+                    "children_data": []
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "parent_id": 2,
+            "name": "Livelle",
+            "is_active": true,
+            "position": 16,
+            "level": 2,
+            "product_count": 391,
+            "children_data": [
+                {
+                    "id": 74,
+                    "parent_id": 71,
+                    "name": "Staggie",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 28,
+                    "children_data": []
+                },
+                {
+                    "id": 182,
+                    "parent_id": 71,
+                    "name": "Livelle per edilizia",
+                    "is_active": true,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 232,
+                    "children_data": []
+                },
+                {
+                    "id": 120,
+                    "parent_id": 71,
+                    "name": "Livelle Precisione",
+                    "is_active": true,
+                    "position": 3,
+                    "level": 3,
+                    "product_count": 32,
+                    "children_data": []
+                },
+                {
+                    "id": 180,
+                    "parent_id": 71,
+                    "name": "Piani Riscontro - Prismi",
+                    "is_active": true,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 59,
+                    "children_data": []
+                },
+                {
+                    "id": 112,
+                    "parent_id": 71,
+                    "name": "Guardapiano",
+                    "is_active": true,
+                    "position": 5,
+                    "level": 3,
+                    "product_count": 12,
+                    "children_data": []
+                },
+                {
+                    "id": 124,
+                    "parent_id": 71,
+                    "name": "Basi Magnetiche",
+                    "is_active": true,
+                    "position": 6,
+                    "level": 3,
+                    "product_count": 9,
+                    "children_data": []
+                },
+                {
+                    "id": 123,
+                    "parent_id": 71,
+                    "name": "Supporti",
+                    "is_active": true,
+                    "position": 7,
+                    "level": 3,
+                    "product_count": 8,
+                    "children_data": []
+                },
+                {
+                    "id": 176,
+                    "parent_id": 71,
+                    "name": "Accessori per edilizia",
+                    "is_active": true,
+                    "position": 8,
+                    "level": 3,
+                    "product_count": 10,
+                    "children_data": []
+                }
+            ]
+        },
+        {
+            "id": 177,
+            "parent_id": 2,
+            "name": "Misure Meccaniche",
+            "is_active": true,
+            "position": 17,
+            "level": 2,
+            "product_count": 428,
+            "children_data": [
+                {
+                    "id": 94,
+                    "parent_id": 177,
+                    "name": "Calibri",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 200,
+                    "children_data": []
+                },
+                {
+                    "id": 97,
+                    "parent_id": 177,
+                    "name": "Micrometri",
+                    "is_active": true,
+                    "position": 3,
+                    "level": 3,
+                    "product_count": 96,
+                    "children_data": []
+                },
+                {
+                    "id": 99,
+                    "parent_id": 177,
+                    "name": "Comparatori",
+                    "is_active": true,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 21,
+                    "children_data": []
+                },
+                {
+                    "id": 102,
+                    "parent_id": 177,
+                    "name": "Alesametri",
+                    "is_active": true,
+                    "position": 5,
+                    "level": 3,
+                    "product_count": 24,
+                    "children_data": []
+                },
+                {
+                    "id": 178,
+                    "parent_id": 177,
+                    "name": "Misuratori di Durezza, Spessore - Plicometri",
+                    "is_active": true,
+                    "position": 6,
+                    "level": 3,
+                    "product_count": 47,
+                    "children_data": []
+                },
+                {
+                    "id": 179,
+                    "parent_id": 177,
+                    "name": "Contatori e Contacolpi",
+                    "is_active": true,
+                    "position": 7,
+                    "level": 3,
+                    "product_count": 38,
+                    "children_data": []
+                },
+                {
+                    "id": 64,
+                    "parent_id": 177,
+                    "name": "Sclerometri",
+                    "is_active": true,
+                    "position": 8,
+                    "level": 3,
+                    "product_count": 2,
+                    "children_data": []
+                }
+            ]
+        }
+    ]
+}
